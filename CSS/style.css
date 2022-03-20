@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    color:white;
+    font-size: 20pt;
+    background-color:#565656;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+}
+p {
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+    font-size: 24pt;
+}
